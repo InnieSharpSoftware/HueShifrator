@@ -1,0 +1,8 @@
+C:\Users\inniesharp\Documents\SharpDevelop Projects\HueShifrator\HueShifrator\obj\Debug\HueShifrator.csprojResolveAssemblyReference.cache
+C:\Users\inniesharp\Documents\SharpDevelop Projects\HueShifrator\HueShifrator\obj\Debug\HueShifrator.MainForm.resources
+C:\Users\inniesharp\Documents\SharpDevelop Projects\HueShifrator\HueShifrator\obj\Debug\HueShifrator.csproj.GenerateResource.Cache
+C:\Users\inniesharp\Documents\SharpDevelop Projects\HueShifrator\HueShifrator\bin\Debug\HueShifrator.exe.config
+C:\Users\inniesharp\Documents\SharpDevelop Projects\HueShifrator\HueShifrator\bin\Debug\HueShifrator.exe
+C:\Users\inniesharp\Documents\SharpDevelop Projects\HueShifrator\HueShifrator\bin\Debug\HueShifrator.pdb
+C:\Users\inniesharp\Documents\SharpDevelop Projects\HueShifrator\HueShifrator\obj\Debug\HueShifrator.exe
+C:\Users\inniesharp\Documents\SharpDevelop Projects\HueShifrator\HueShifrator\obj\Debug\HueShifrator.pdb
